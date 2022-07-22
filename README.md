@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="https://raw.githubusercontent.com/gozmanfaraday/gozmanfaraday/main/twitter-header-2.png?token=GHSAT0AAAAAABWQH6GO7E2DEN76EV6FO2SSYW3CHPA" alt="banner that says Gozman Faraday web developer">
+<img src="https://github.com/gozmanfaraday/gozmanfaraday/blob/main/twitter-header-2.png" alt="banner that says Gozman Faraday web developer">
 
 <div id="badges" align="left">
   <a href="https://twitter.com/gozmanfaraday" target="blank"><img src="https://img.shields.io/twitter/follow/gozmanfaraday?logo=twitter&style=for-the-badge" alt="gozmanfaraday" /></a>
