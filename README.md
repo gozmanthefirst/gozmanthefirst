@@ -1,4 +1,10 @@
-### Hi there 👋
+https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO
+<div id="header" align="center">
+
+  <img src="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO" width="100"/>
+
+</div>
+
 
 <!--
 **gozmanfaraday/gozmanfaraday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
