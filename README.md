@@ -44,7 +44,31 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=gozmanfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="gozmanfaraday" /> </div>
 
-<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- COMMENTED OUT
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="180"/>
 </div>
