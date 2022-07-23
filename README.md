@@ -17,8 +17,8 @@
 - 👯 I’m looking to collaborate on **fun and exciting projects**.
 - 🔭 I’m currently working on **finishing the The Odin Project and the #100DaysOfCodeChallenge on Twitter**.
 - 🤔 I’m looking for help with **learning Technical Content Writing**.
-- 📫 Reach out to me on **Twitter**.
-- ⚡ Fun fact: **I love good music and epic fantasy books**.
+- 📫 Reach out to me on **[Twitter](https://twitter.com/GozmanFaraday)** or send an email to **thegzmn@gmail.com**.
+- ⚡ Fun fact: **Obsessed with good music and epic fantasy books**.
 
 <h2 align="left">Languages and Tools</h2>
 <div align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
