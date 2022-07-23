@@ -13,9 +13,9 @@
 
 <h2 align="left">About Me</h2>
 
-- 🌱 I’m currently learning **JavaScript with The Odin Project**.
-- 👯 I’m looking to collaborate on **fun and exciting projects**.
-- 🔭 I’m currently working on **finishing the The Odin Project and the #100DaysOfCodeChallenge on Twitter**.
+- 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
+- 👯 I’m looking to collaborate on **web development projects**.
+- 🔭 I’m currently working on **finishing the [The Odin Project](https://www.theodinproject.com/) and the #100DaysOfCodeChallenge on Twitter**.
 - 🤔 I’m looking for help with **learning Technical Content Writing**.
 - 📫 Reach out to me on **[Twitter](https://twitter.com/GozmanFaraday)** or send an email to **thegzmn@gmail.com**.
 - ⚡ Fun fact: **Obsessed with good music and epic fantasy books**.
