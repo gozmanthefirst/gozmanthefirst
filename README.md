@@ -30,10 +30,6 @@
 <h2 align="left">My Stats</h2>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
-</div>
-<br>
-<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gozmanfaraday&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
 </div>
 <br>
@@ -117,19 +113,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="180"/>
+
+
+
+
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
 </div>
-
-<p align="left"> <a href="https://twitter.com/gozmanfaraday" target="blank"><img src="https://img.shields.io/twitter/follow/gozmanfaraday?logo=twitter&style=for-the-badge" alt="gozmanfaraday" /></a> </p>
-
-  <a href="https://twitter.com/GozmanFaraday">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/></p>
 -->
