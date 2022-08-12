@@ -20,10 +20,18 @@
 
 <h2 align="left">Languages and Tools</h2>
 <div align="center">
-  https://img.shields.io/badge/-JavaScript-F7DF1E
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
 </div>
 
 <h2 align="left">My Stats</h2>
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+</div>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gozmanfaraday&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
@@ -35,7 +43,7 @@
 
 <h2 align="left">Connect With Me</h2>
 <div align="center">
-<a href="https://twitter.com/GozmanFaraday">
+  <a href="https://twitter.com/GozmanFaraday">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/">
@@ -45,7 +53,9 @@
 
 <br>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=gozmanfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="gozmanfaraday" /> </div>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=gozmanfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="gozmanfaraday"/>
+</div>
 
 
 
@@ -121,5 +131,5 @@ Here are some ideas to get you started:
   </a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/></p>
 -->
