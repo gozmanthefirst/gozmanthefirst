@@ -6,7 +6,11 @@
 <img src="https://github.com/gozmanfaraday/gozmanfaraday/blob/main/github.header.png" alt="banner that says Gozman Faraday web developer">
 
 <div id="badges" align="left">
-  <a href="https://twitter.com/gozmanfaraday" target="blank"><img src="https://img.shields.io/twitter/follow/gozmanfaraday?logo=twitter&style=for-the-badge" alt="gozmanfaraday" /></a>
+  <a href="https://twitter.com/gozmanfaraday" target="_blank">
+    <img src="https://img.shields.io/badge/@gozmanfaraday-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="gozmanfaraday" /></a>
+  <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
+    <img src="https://img.shields.io/badge/Goziem%20Sunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <br>
@@ -14,7 +18,7 @@
 <h2 align="left">About Me</h2>
 
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
-- 👀 I’m interested in and **Technical Content Writing**.
+- 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
 - 📫 Reach out to me on **[Twitter](https://twitter.com/GozmanFaraday)** or send an email to **thegzmn@gmail.com**.
 - ⚡ Fun fact: **Obsessed with good music and epic fantasy books**.
 
@@ -30,25 +34,14 @@
 <h2 align="left">My Stats</h2>
 <br>
 <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+</div>
+<br>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gozmanfaraday&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
 </div>
-<br>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gozmanfaraday&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
-</div>
 
-<h2 align="left">Connect With Me</h2>
-<div align="center">
-  <a href="https://twitter.com/GozmanFaraday">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<br>
-
+<h2 align="left"></h2>
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=gozmanfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="gozmanfaraday"/>
 </div>
@@ -114,11 +107,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gozmanfaraday&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+</div>
 
 
 
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+</div>
+
+
+
+
+<div align="center">
+  <a href="https://twitter.com/GozmanFaraday">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 -->
