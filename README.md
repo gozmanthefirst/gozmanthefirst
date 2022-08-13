@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">More About Me</h2>
 
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
 - 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
@@ -33,7 +33,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
 </div>
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">Statistics</h2>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
