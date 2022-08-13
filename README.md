@@ -1,9 +1,11 @@
-<h1 align="center">
+<h1>
   Hi, I'm Gozman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<img src="https://github.com/gozmanfaraday/gozmanfaraday/blob/main/github.header.png" alt="banner that says Gozman Faraday web developer">
+<p>
+  I'm a passionate Web Developer from Nigeria interested in building amazing, efficient and functional websites and web apps. I'm also really interested in technical writing and open source projects. Currently aiming to become a Full Stack Developer and Technical Writer. Feel free to reach out to me.
+</p>
 
 <div id="badges" align="left">
   <a href="https://twitter.com/gozmanfaraday" target="_blank">
@@ -20,7 +22,7 @@
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
 - 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
 - 📫 Reach out to me on **[Twitter](https://twitter.com/GozmanFaraday)** or send an email to **thegzmn@gmail.com**.
-- ⚡ Fun fact: **Obsessed with good music and epic fantasy books**.
+- ⚡ Fun fact: I love reading **epic fantasy books**. Also addicted to **really good music**.
 
 <h2 align="left">Languages and Tools</h2>
 <div align="center">
