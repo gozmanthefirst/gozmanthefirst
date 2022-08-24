@@ -4,12 +4,13 @@
 </h1>
 
 <p>
-  I'm a passionate Web Developer from Nigeria skilled at building amazing, efficient and functional websites and web apps. I'm also really interested in technical writing and open source projects. Currently aiming to become a Full Stack Developer and Technical Writer. Feel free to reach out to me.
+  I am a passionate web developer from Nigeria currently learning Full Stack Development with interests in technical writing and open source projects. Currently aiming to become a Technical Writer. Feel free to reach out to me.
 </p>
+I am a passionate web developer from Nigeria currently learning Full Stack Development with interests in technical writing and open source projects. I spend most of my free time reading fiction📚 and listening to good music🎶
 
 <div id="badges" align="left">
-  <a href="https://twitter.com/gozmanfaraday" target="_blank">
-    <img src="https://img.shields.io/badge/@gozmanfaraday-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="gozmanfaraday" /></a>
+  <a href="https://twitter.com/stGozman" target="_blank">
+    <img src="https://img.shields.io/badge/@stGozman-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="gozmanfaraday" /></a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
     <img src="https://img.shields.io/badge/Goziem%20Sunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,7 +22,7 @@
 
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
 - 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
-- 📫 Reach out to me on **[Twitter](https://twitter.com/GozmanFaraday)** or send an email to **thegzmn@gmail.com**.
+- 📫 Reach out to me on **[Twitter](https://twitter.com/stGozman)** or send an email to **thegzmn@gmail.com**.
 - ⚡ Fun fact: I love reading **epic fantasy books**. Also addicted to **really good music**.
 
 <h2 align="left">Languages and Tools</h2>
