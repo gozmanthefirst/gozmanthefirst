@@ -36,16 +36,16 @@
 <h2 align="left">Statistics</h2>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stGozman&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="stGozman"/>
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gozmanfaraday&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stGozman&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="stGozman"/>
 </div>
 
 <h2 align="left"></h2>
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gozmanfaraday&label=Profile%20views&color=0e75b6&style=flat" alt="gozmanfaraday"/>
+  <img src="https://komarev.com/ghpvc/?username=stGozman&label=Profile%20views&color=0e75b6&style=flat" alt="stGozman"/>
 </div>
 
 
