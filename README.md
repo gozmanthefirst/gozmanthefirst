@@ -6,7 +6,6 @@
 <p>
   I am a passionate web developer from Nigeria currently learning Full Stack Development with interests in technical writing and open source projects. Currently aiming to become a Technical Writer. Feel free to reach out to me.
 </p>
-I am a passionate web developer from Nigeria currently learning Full Stack Development with interests in technical writing and open source projects. I spend most of my free time reading fiction📚 and listening to good music🎶
 
 <div id="badges" align="left">
   <a href="https://twitter.com/stGozman" target="_blank">
