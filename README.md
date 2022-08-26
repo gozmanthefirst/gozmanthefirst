@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Goziem%20Sunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://gozman.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Gozman's%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Gozman's%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
 
