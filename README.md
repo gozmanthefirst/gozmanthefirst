@@ -9,7 +9,7 @@
 
 <div id="badges" align="left">
   <a href="https://twitter.com/stGozman" target="_blank">
-    <img src="https://img.shields.io/badge/@stGozman-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="gozmanfaraday" /></a>
+    <img src="https://img.shields.io/badge/@stGozman-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
     <img src="https://img.shields.io/badge/Goziem%20Sunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -113,14 +113,14 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gozmanfaraday&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gozmanfaraday&theme=react&count_private=true&include_all_commits=true" alt="stGozman"/>
 </div>
 
 
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="gozmanfaraday"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmanfaraday&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="stGozman"/>
 </div>
 
 
