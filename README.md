@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  I am a passionate web developer from Nigeria currently learning Full Stack Development with interests in technical writing and open source projects. Currently aiming to become a Technical Writer. Feel free to reach out to me.
+  I am a passionate web developer from Nigeria currently learning Full Stack Development with interests in technical writing and open source projects. Feel free to reach out to me.
 </p>
 
 <div id="badges" align="left">
