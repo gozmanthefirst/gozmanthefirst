@@ -9,12 +9,9 @@
 
 <div id="badges" align="left">
   <a href="https://twitter.com/stGozman" target="_blank">
-    <img src="https://img.shields.io/badge/@stGozman-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge"/></a>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
-    <img src="https://img.shields.io/badge/Goziem%20Sunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://gozman.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Gozman's%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -37,18 +34,18 @@
 </div>
 
 <h2 align="left">Statistics</h2>
-<br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stGozman&show_icons=true&locale=en&layout=compact&theme=react&count_private=true&include_all_commits=true" alt="stGozman"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stGozman&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="stGozman"/>
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stGozman&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="stGozman"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stGozman&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="stGozman"/>
 </div>
 
+
 <h2 align="left"></h2>
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=stGozman&label=Profile%20views&color=0e75b6&style=flat" alt="stGozman"/>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=stGozman&icon=1&color=8" alt="stGozman"/>
 </div>
 
 
