@@ -15,8 +15,6 @@
   </a>
 </div>
 
-<br>
-
 <h2 align="left">More About Me</h2>
 
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
