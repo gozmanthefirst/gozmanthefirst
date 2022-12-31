@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  I am a software developer who is especially interested in frontend development. My goal is to create websites that are both visually appealing and easy to use. I'm always working to improve my skills and stay up-to-date with new technologies. When I'm not coding, I like to relax by reading epic fantasy novels and listening to music. I also like to write about my experiences as a software developer.
+  I am a frontend software developer with a passion for creating visually appealing and user-friendly websites. I am constantly learning and staying up-to-date with new technologies. In my free time, I enjoy reading epic fantasy novels and listening to music. I also write about my experiences as a software developer.
 </p>
 
 <div id="badges" align="left">
