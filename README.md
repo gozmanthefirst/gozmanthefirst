@@ -33,6 +33,7 @@
   <img alt="Webpck" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge"/>
 </div>
 
+<!-- COMMENTED OUT
 <h2 align="left">Statistics</h2>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stGozman&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="stGozman"/>
@@ -42,12 +43,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stGozman&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="stGozman"/>
 </div>
 
-
 <h2 align="left"></h2>
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=stGozman&icon=1&color=8" alt="stGozman"/>
 </div>
-
+-->
 
 
 
