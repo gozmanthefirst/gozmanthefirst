@@ -8,7 +8,7 @@
 </p>
 
 <div id="badges" align="left">
-  <a href="https://twitter.com/stGozman" target="_blank">
+  <a href="https://twitter.com/xGoziem" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
