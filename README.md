@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
 - 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
 - 📫 Reach out to me on **[Twitter](https://twitter.com/stGozman)** or send an email to **thegzmn@gmail.com**.
-- ⚡ Fun fact: I love reading **epic fantasy books**. Also addicted to **really good music**.
+- ⚡ Fun fact: I love reading epic fantasy books. Also addicted to really good music.
 
 <h2 align="left">Languages and Tools</h2>
 <div align="center">
