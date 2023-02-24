@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
 - 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
-- 📫 Reach out to me on **[Twitter](https://twitter.com/stGozman)** or send an email to **thegzmn@gmail.com**.
+- 📫 Reach out to me on **[Twitter](https://twitter.com/xGoziem)** or send an email to **thegzmn@gmail.com**.
 - ⚡ Fun fact: I love reading epic fantasy books. Also addicted to really good music.
 
 <h2 align="left">Languages and Tools</h2>
@@ -33,19 +33,20 @@
   <img alt="Webpck" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge"/>
 </div>
 
+
 <!-- COMMENTED OUT
 <h2 align="left">Statistics</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stGozman&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="stGozman"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xGoziem&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="xGoziem"/>
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stGozman&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="stGozman"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xGoziem&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="xGoziem"/>
 </div>
 
 <h2 align="left"></h2>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=stGozman&icon=1&color=8" alt="stGozman"/>
+  <img src="https://visitcount.itsvg.in/api?id=xGoziem&icon=1&color=8" alt="xGoziem"/>
 </div>
 -->
 
