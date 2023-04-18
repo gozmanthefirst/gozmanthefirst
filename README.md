@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm Goziem
+  Hi, I'm Gozman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -8,7 +8,7 @@
 </p>
 
 <div id="badges" align="left">
-  <a href="https://twitter.com/xGoziem" target="_blank">
+  <a href="https://twitter.com/stGozman" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **JavaScript with [The Odin Project](https://www.theodinproject.com/)**.
 - 👀 I’m interested in **Open Source Projects** and **Technical Writing**.
-- 📫 Reach out to me on **[Twitter](https://twitter.com/xGoziem)** or send an email to **thegzmn@gmail.com**.
+- 📫 Reach out to me on **[Twitter](https://twitter.com/stGozman)** or send an email to **thegzmn@gmail.com**.
 - ⚡ Fun fact: I love reading epic fantasy books. Also addicted to really good music.
 
 <h2 align="left">Languages and Tools</h2>
