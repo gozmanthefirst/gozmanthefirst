@@ -5,7 +5,7 @@ I am a frontend software developer with a passion for creating visually appealin
 Please feel free to reach out to me for any opportunities or collaboration.
 
 - Email: thegzmn@gmail.com
-- Twitter: <a href="https://twitter.com/stGozman" target=_blank>stGozman</a>
+- Twitter: <a href="https://twitter.com/stGozman" target=_blank>@stGozman</a>
 - LinkedIn: <a href="https://linkedin.com/in/goziem-sunday-a9990a202/" target=_blank>/in/goziem-sunday</a>
 
 #### Languages and Tools
