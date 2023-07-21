@@ -5,7 +5,7 @@ I am a frontend software developer with a passion for creating visually appealin
 Please feel free to reach out to me for any opportunities or collaboration.
 
 - Email: thegzmn@gmail.com
-- Twitter: <a href="https://twitter.com/stGozman" target=_blank>@stGozman</a>
+- Twitter: <a href="https://twitter.com/stGozman" target=_blank>@GozmanSunday</a>
 - LinkedIn: <a href="https://linkedin.com/in/goziem-sunday-a9990a202/" target=_blank>/in/goziem-sunday</a>
 
 #### Languages and Tools
@@ -24,19 +24,19 @@ Please feel free to reach out to me for any opportunities or collaboration.
 <!-- COMMENTED OUT
 <h2 align="left">Statistics</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stGozman&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="stGozman"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GozmanSunday&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GozmanSunday"/>
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stGozman&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="stGozman"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GozmanSunday&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="GozmanSunday"/>
 </div>
 
 <h2 align="left"></h2>
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=xGoziem&icon=1&color=8" alt="xGoziem"/>
+  <img src="https://visitcount.itsvg.in/api?id=GozmanSunday&icon=1&color=8" alt="GozmanSunday"/>
 </div>
 <div id="badges" align="left">
-  <a href="https://twitter.com/stGozman" target="_blank">
+  <a href="https://twitter.com/GozmanSunday" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://www.linkedin.com/in/goziem-sunday-a9990a202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
