@@ -11,13 +11,11 @@ Please feel free to reach out to me for any opportunities or collaboration.
 #### Languages and Tools
 
 <div align="">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
   <img alt="NextJS" src="https://img.shields.io/badge/NextJS-FFFFFF?logo=next.js&logoColor=black&style=flat"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-6DB698?logo=supabase&logoColor=black&style=flat"/>
 </div>
 
 
@@ -30,6 +28,10 @@ Please feel free to reach out to me for any opportunities or collaboration.
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gozmansunday&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="gozmansunday"/>
 </div>
+
+
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat"/>
 
 <h2 align="left"></h2>
 <div align="center">
