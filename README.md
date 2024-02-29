@@ -1,4 +1,4 @@
-### Hi, I'm Gozman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+### Hi, I'm Gozman
 
 I am a frontend software developer with a passion for creating visually appealing and user-friendly websites. I am constantly learning and staying up-to-date with new technologies. In my free time, I enjoy reading epic fantasy novels and listening to music. I also write about my experiences as a software developer.
 
