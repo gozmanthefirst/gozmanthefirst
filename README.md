@@ -6,7 +6,7 @@ Please feel free to reach out to me for any opportunities or collaboration.
 
 - Email: gozmansunday@gmail.com
 - Twitter: <a href="https://twitter.com/gozmansunday" target=_blank>@gozmansunday</a>
-- LinkedIn: <a href="https://linkedin.com/in/goziem-sunday-a9990a202/" target=_blank>/in/goziem-sunday</a>
+- LinkedIn: <a href="https://linkedin.com/in/chiagoziem-sunday-a9990a202/" target=_blank>/in/goziem-sunday</a>
 
 #### Languages and Tools
 
