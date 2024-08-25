@@ -2,7 +2,7 @@
 
 I am a frontend software developer with a passion for creating visually appealing and user-friendly websites. I am constantly learning and staying up-to-date with new technologies. In my free time, I enjoy reading epic fantasy novels and listening to music. I also write about my experiences as a software developer.
 
-I'm currently learning PostgreSQL and Node.js.
+I'm currently learning Node.js and Express.
 
 Please feel free to reach out to me for any opportunities or collaboration.
 
