@@ -1,8 +1,8 @@
 ### Hi, I'm Gozman
 
-I am a frontend software developer with a passion for creating visually appealing and user-friendly websites. I am constantly learning and staying up-to-date with new technologies. In my free time, I enjoy reading epic fantasy novels and listening to music. I also write about my experiences as a software developer.
+I am a frontend software developer focused on building efficient, scalable web applications. I work primarily with Next.js, React, TypeScript, and Node.js, creating intuitive UIs and leveraging modern development practices to ensure professional, clean codebases. As I keep up with emerging technologies in frontend development, I am also deepening my expertise in backend development and deployment. Outside of coding, I enjoy reading epic/high fantasy novels and exploring new music.
 
-I'm currently learning Node.js and Express.
+Right now, I'm learning and gaining experience in Express and Hono. I am also interested in learning Go.
 
 Please feel free to reach out to me for any opportunities or collaboration.
 
@@ -20,8 +20,8 @@ Please feel free to reach out to me for any opportunities or collaboration.
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-6DB698?logo=supabase&logoColor=black&style=flat"/>
   <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=flat"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black&style=flat"/>
 </div>
-
 
 <!-- COMMENTED OUT
 <h2 align="left">Statistics</h2>
