@@ -1,13 +1,13 @@
 ### Hi, I'm Gozman
 
-I am a frontend software developer focused on building efficient, scalable web applications. I work primarily with Next.js, React, TypeScript, and Node.js, creating intuitive UIs and leveraging modern development practices to ensure professional, clean codebases. As I keep up with emerging technologies in frontend development, I am also deepening my expertise in backend development and deployment. Outside of coding, I enjoy reading epic/high fantasy novels and exploring new music.
+I am a frontend software developer focused on building efficient, scalable web applications. I work primarily with Next.js, React, TypeScript, and Node.js, creating intuitive UIs and leveraging modern development practices to ensure professional, clean codebases. As I keep up with emerging technologies in frontend development, I am also deepening my expertise in backend development. Outside of coding, I enjoy reading epic fantasy novels and exploring new music.
 
 Right now, I'm learning and gaining experience in Express and Hono. I am also interested in learning Go.
 
 Please feel free to reach out to me for any opportunities or collaboration.
 
 - Email: gozmansunday@gmail.com
-- Twitter: <a href="https://twitter.com/gozmansunday" target=_blank>@gozmansunday</a>
+- Twitter: <a href="https://twitter.com/gozmanthefirst" target=_blank>@gozmanthefirst</a>
 - LinkedIn: <a href="https://linkedin.com/in/chiagoziem-sunday-a9990a202/" target=_blank>/in/chiagoziem-sunday</a>
 
 #### Languages and Tools
