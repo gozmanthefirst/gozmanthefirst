@@ -8,7 +8,6 @@ Please feel free to reach out to me for any opportunities or collaboration.
 
 - Email: gozmansunday@gmail.com
 - Twitter: <a href="https://twitter.com/gozmanthefirst" target=_blank>@gozmanthefirst</a>
-- LinkedIn: <a href="https://linkedin.com/in/chiagoziem-sunday-a9990a202/" target=_blank>/in/chiagoziem-sunday</a>
 
 #### Languages and Tools
 
@@ -24,6 +23,8 @@ Please feel free to reach out to me for any opportunities or collaboration.
 </div>
 
 <!-- COMMENTED OUT
+- LinkedIn: <a href="https://linkedin.com/in/chiagoziem-sunday-a9990a202/" target=_blank>/in/chiagoziem-sunday</a>
+
 <h2 align="left">Statistics</h2>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gozmansunday&show_icons=true&locale=en&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="gozmansunday"/>
