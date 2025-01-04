@@ -15,7 +15,7 @@ Please feel free to reach out to me for any opportunities or collaboration.
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
   <img alt="NextJS" src="https://img.shields.io/badge/NextJS-FFFFFF?logo=next.js&logoColor=black&style=flat"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-6DB698?logo=supabase&logoColor=black&style=flat"/>
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=flat"/>
+<!--   <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=flat"/> -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=black&style=flat"/>
 </div>
